@@ -32,3 +32,4 @@ function checkTrafficLight(lightColor) {
 }
 
 checkTrafficLight('verde');
+checkTrafficLight('amarelo')
